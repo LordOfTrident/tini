@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 <div align="center">
-	<img src="./res/thumbnail.png" width="70%">
+	<img src="./res/thumbnail.png" width=500px">
 	<br>
-	<a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-GPL v3-black?labelColor=ad264a&color=de315f&style=flat-square"></a>
+	<a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-GPL_v3-black?labelColor=ad264a&color=de315f&style=flat-square"></a>
 	<a href="https://github.com/LordOfTrident/tini/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/LordOfTrident/tini?labelColor=af5c25&color=e07630&style=flat-square"></a>
 	<a href="https://github.com/LordOfTrident/tini/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/LordOfTrident/tini?labelColor=a68900&color=d5b000&style=flat-square"></a>
 	<a href="https://github.com/LordOfTrident/tini/issues"><img alt="Issues" src="https://img.shields.io/github/issues/LordOfTrident/tini?labelColor=007652&color=009869&style=flat-square"></a>
