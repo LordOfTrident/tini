@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-	<h1>Moved to <a href="https://git.gay/rei/tini">https://git.gay/rei/tini</a></h1>
+	<h1>Moved to <a href="https://codeberg.org/lordoftrident/tini">https://codeberg.org/lordoftrident/tini</a></h1>
 	<img src="./res/thumbnail.png" width=500px">
 	<br>
 	<a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-black?labelColor=ad264a&color=de315f&style=flat-square"></a>
